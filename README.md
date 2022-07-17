@@ -7,4 +7,4 @@ What makes programming languages like R and Python great for making data applica
 
 We have reviewed Docker basics and how to dockerize a very simple Shiny app. For anything that is a little bit more complex, you will have to manage dependencies. Dependency management is one of the most important aspects of app development with Docker. In this post, you will learn about different options.
 
-The codeset for the analysis of COVID-19 data with R code is attached in .docx file in this repository.
+The codeset for the analysis with R code is attached in .docx file in this repository.
